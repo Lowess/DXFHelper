@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="fr" prefix="/rsc">
+        <file alias="folder">img/folder_256.png</file>
+        <file alias="run">img/run.png</file>
+        <file alias="valid">img/valid_256.png</file>
+    </qresource>
+</RCC>
